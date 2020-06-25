@@ -10,3 +10,4 @@ Aplikacja wykorzystuje w warstwie frontowej framework Angular w wersji 8.
 Connection string Mongodb Compass: mongodb+srv://user:user@robotapp-t7ifm.mongodb.net/test  
 Username: user  
 password: user
+.
